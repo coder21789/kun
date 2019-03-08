@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="188px" viewBox="0 0 57 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>边框-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="28 26 37 34 37 157 28 163"></polygon>
+        <filter x="-333.3%" y="-21.9%" width="766.7%" height="143.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.639215686   0 0 0 0 0.933333333   0 0 0 0 0.964705882  0 0 0 0.8 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="鲲鹏计划" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-440.000000, -192.000000)" fill-rule="nonzero" id="边框-1">
+            <g transform="translate(440.000000, 193.000000)">
+                <polyline id="Path-2" stroke="#CBEEFF" points="1.26217745e-29 0 36 33 36 157 2.84217094e-14 186"></polyline>
+                <g id="Rectangle-6">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#00D2FF" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="35px" viewBox="0 0 39 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>括号2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="鲲鹏计划" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="鲲鹏计划-copy-2" transform="translate(-40.000000, -145.000000)" fill-rule="nonzero" stroke="#00E8FF" stroke-width="4">
+            <g id="括号2" transform="translate(42.000000, 147.000000)">
+                <path d="M9,0 C7.66666667,0 6,0 4,0 C2,0 -3.01829948e-14,0.96875 6.08486888e-15,3.70404412 C-1.55228467e-14,13.7334559 2.53150345e-14,15.4430147 5.20748789e-14,25.4724265 C4.03654954e-14,27.2959559 1,31 4,31 C5.66666667,31 7.33333333,31 9,31" id="括号1"></path>
+                <path d="M26,0 C26.6666667,0 28.3333333,0 31,0 C34,0 35,0.96875 35,3.70404412 C35,13.7334559 35,15.4430147 35,25.4724265 C35,27 35,31 31,31 C28.3333333,31 26.6666667,31 26,31" id="括号1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

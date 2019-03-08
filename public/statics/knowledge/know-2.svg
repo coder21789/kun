@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="383px" height="200px" viewBox="0 0 383 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>知识产权分布-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" letter-spacing="0.64" fill="#D9EEFF">
+            <tspan x="15.36" y="17">商标</tspan>
+        </text>
+        <filter x="-17.6%" y="-27.3%" width="135.3%" height="154.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2   0 0 0 0 0.733333333   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-22.4%" y="-40.5%" width="144.8%" height="181.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.279356061   0 0 0 0 0.667705792   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <text id="text-4" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" letter-spacing="0.64" fill="#D9EEFF">
+            <tspan x="154.72" y="104">网站信息</tspan>
+        </text>
+        <filter x="-9.0%" y="-27.3%" width="117.9%" height="154.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2   0 0 0 0 0.733333333   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-29.4%" y="-40.5%" width="158.8%" height="181.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.279356061   0 0 0 0 0.667705792   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="17.6020594%" id="linearGradient-7">
+            <stop stop-color="#FFD89C" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="17.6020594%" id="linearGradient-8">
+            <stop stop-color="#FF9295" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-9" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" letter-spacing="0.64" fill="#D9EEFF">
+            <tspan x="328.36" y="106">证书</tspan>
+        </text>
+        <filter x="-17.6%" y="-27.3%" width="135.3%" height="154.5%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2   0 0 0 0 0.733333333   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-29.4%" y="-40.5%" width="158.8%" height="181.1%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.279356061   0 0 0 0 0.667705792   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="17.6020594%" id="linearGradient-12">
+            <stop stop-color="#EF94FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="鲲鹏计划" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="鲲鹏计划-copy-2" transform="translate(-1477.000000, -484.000000)">
+            <g id="知识产权分布-2" transform="translate(1484.000000, 484.000000)">
+                <g id="商标" fill="#D9EEFF" fill-opacity="1">
+                    <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                    <use xlink:href="#text-1"></use>
+                </g>
+                <g id="Group-23" filter="url(#filter-3)" transform="translate(0.000000, 22.000000)" font-family="DINAlternate-Bold, DIN Alternate" font-size="32" font-weight="bold" letter-spacing="0.4571429">
+                    <text id="1325" fill="#0A46F4">
+                        <tspan x="3" y="30">1325</tspan>
+                    </text>
+                    <text id="1325" fill="#FFFFFF">
+                        <tspan x="0" y="30">1325</tspan>
+                    </text>
+                </g>
+                <g id="网站信息" fill="#D9EEFF" fill-opacity="1">
+                    <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+                    <use xlink:href="#text-4"></use>
+                </g>
+                <g id="Group-23" filter="url(#filter-6)" transform="translate(161.000000, 111.000000)" font-family="DINAlternate-Bold, DIN Alternate" font-size="32" font-weight="bold" letter-spacing="0.4571429">
+                    <text id="148" fill="#0A46F4">
+                        <tspan x="3" y="30">148</tspan>
+                    </text>
+                    <text id="148" fill="#FFFFFF">
+                        <tspan x="0" y="30">148</tspan>
+                    </text>
+                </g>
+                <g id="Group-22" transform="translate(5.000000, 60.000000)">
+                    <path d="M5.01013334,131.453552 L5,131.453552 L5,8 L50,8 L50,131.453552 L49.9898667,131.453552 C49.9966063,131.537037 50,131.620831 50,131.704918 C50,136.286165 39.9264069,140 27.5,140 C15.0735931,140 5,136.286165 5,131.704918 C5,131.620831 5.00339369,131.537037 5.01013334,131.453552 Z" id="Combined-Shape" fill="#D86C00"></path>
+                    <ellipse id="Oval-7" stroke="url(#linearGradient-7)" stroke-width="2" cx="27.5" cy="40.5" rx="27.5" ry="10.5"></ellipse>
+                    <ellipse id="Oval-7" stroke="url(#linearGradient-7)" stroke-width="2" cx="27.5" cy="74.5" rx="27.5" ry="10.5"></ellipse>
+                    <ellipse id="Oval-7" stroke="url(#linearGradient-7)" stroke-width="2" cx="27.5" cy="110.5" rx="27.5" ry="10.5"></ellipse>
+                    <ellipse id="Oval-7" fill="#FFD89C" cx="27.5" cy="8.5" rx="22.5" ry="8.5"></ellipse>
+                </g>
+                <g id="Group-22" transform="translate(161.000000, 146.000000)">
+                    <path d="M5.02088428,42 L5,42 L5,7 L50,7 L50,42 L49.9791157,42 C49.9929913,42.1657817 50,42.3324725 50,42.5 C50,48.8512746 39.9264069,54 27.5,54 C15.0735931,54 5,48.8512746 5,42.5 C5,42.3324725 5.00700866,42.1657817 5.02088428,42 Z" id="Combined-Shape" fill="#C21B1B"></path>
+                    <ellipse id="Oval-7" stroke="url(#linearGradient-8)" stroke-width="2" cx="27.5" cy="15.5" rx="27.5" ry="10.5"></ellipse>
+                    <ellipse id="Oval-7" stroke="url(#linearGradient-8)" stroke-width="2" cx="27.5" cy="24.5" rx="27.5" ry="10.5"></ellipse>
+                    <ellipse id="Oval-7" stroke="url(#linearGradient-8)" stroke-width="2" cx="27.5" cy="33.5" rx="27.5" ry="10.5"></ellipse>
+                    <ellipse id="Oval-7" fill="#FF9295" cx="27.5" cy="8.5" rx="22.5" ry="8.5"></ellipse>
+                </g>
+                <g id="证书" fill="#D9EEFF" fill-opacity="1">
+                    <use filter="url(#filter-10)" xlink:href="#text-9"></use>
+                    <use xlink:href="#text-9"></use>
+                </g>
+                <g id="Group-23" filter="url(#filter-11)" transform="translate(318.000000, 113.000000)" font-family="DINAlternate-Bold, DIN Alternate" font-size="32" font-weight="bold" letter-spacing="0.4571429">
+                    <text id="143" fill="#0A46F4">
+                        <tspan x="3" y="30">143</tspan>
+                    </text>
+                    <text id="143" fill="#FFFFFF">
+                        <tspan x="0" y="30">143</tspan>
+                    </text>
+                </g>
+                <g id="Group-22" transform="translate(317.000000, 146.000000)">
+                    <path d="M5.06557821,47 L5,47 L5,10 L50,10 L50,47 L49.9344218,47 C49.9778757,47.1650208 50,47.331764 50,47.5 C50,51.0898509 39.9264069,54 27.5,54 C15.0735931,54 5,51.0898509 5,47.5 C5,47.331764 5.0221243,47.1650208 5.06557821,47 Z" id="Combined-Shape" fill="#9400DC"></path>
+                    <ellipse id="Oval-7" stroke="url(#linearGradient-12)" stroke-width="2" cx="27.5" cy="16.5" rx="27.5" ry="10.5"></ellipse>
+                    <ellipse id="Oval-7" stroke="url(#linearGradient-12)" stroke-width="2" cx="27.5" cy="25.5" rx="27.5" ry="10.5"></ellipse>
+                    <ellipse id="Oval-7" stroke="url(#linearGradient-12)" stroke-width="2" cx="27.5" cy="35.5" rx="27.5" ry="10.5"></ellipse>
+                    <ellipse id="Oval-7" fill="#EF94FF" cx="27.5" cy="8.5" rx="22.5" ry="8.5"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

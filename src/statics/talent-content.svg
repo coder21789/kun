@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="471px" height="232px" viewBox="0 0 471 232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>人才需求</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="427 130.472973 327.75 210.945946 129.25 210.945946 30 130.472973 129.25 50 327.75 50"></polygon>
+        <filter x="-0.3%" y="-0.6%" width="100.5%" height="101.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.548743207   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="471 133.472973 353.25 228.945946 117.75 228.945946 0 133.472973 117.75 38 353.25 38"></polygon>
+        <filter x="-0.2%" y="-0.5%" width="100.4%" height="101.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.548743207   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="391 131.486486 309 197.972973 145 197.972973 63 131.486486 145 65 309 65"></polygon>
+        <filter x="-0.5%" y="-1.1%" width="100.9%" height="102.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.548743207   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-7" points="360 129.513514 294 183.027027 162 183.027027 96 129.513514 162 76 294 76"></polygon>
+        <filter x="-0.9%" y="-2.3%" width="101.9%" height="104.7%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="2.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.548743207   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <text id="text-9" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" letter-spacing="0.56" fill="#D9EEFF">
+            <tspan x="301.343" y="55">Java工程师</tspan>
+        </text>
+        <filter x="-7.8%" y="-30.0%" width="115.6%" height="160.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2   0 0 0 0 0.733333333   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-11" points="91 18.362069 68.25 36.7241379 22.75 36.7241379 0 18.362069 22.75 0 68.25 0"></polygon>
+        <filter x="-3.3%" y="-8.2%" width="106.6%" height="116.3%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="3" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.548743207   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <filter x="-55.6%" y="-53.6%" width="211.1%" height="207.1%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.279356061   0 0 0 0 0.667705792   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-14" points="80 16.1424782 60 32.2849564 20 32.2849564 0 16.1424782 20 0 60 0"></polygon>
+        <filter x="-3.8%" y="-9.3%" width="107.5%" height="118.6%" filterUnits="objectBoundingBox" id="filter-15">
+            <feGaussianBlur stdDeviation="3" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.548743207   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <text id="text-16" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" letter-spacing="0.56" fill="#D9EEFF">
+            <tspan x="305.551" y="186">UED</tspan>
+        </text>
+        <filter x="-19.4%" y="-30.0%" width="138.7%" height="160.0%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2   0 0 0 0 0.733333333   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-65.2%" y="-62.5%" width="230.4%" height="225.0%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.279356061   0 0 0 0 0.667705792   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-19" points="80 16.1424782 60 32.2849564 20 32.2849564 0 16.1424782 20 0 60 0"></polygon>
+        <filter x="-3.8%" y="-9.3%" width="107.5%" height="118.6%" filterUnits="objectBoundingBox" id="filter-20">
+            <feGaussianBlur stdDeviation="3" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.548743207   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <text id="text-21" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" letter-spacing="0.56" fill="#D9EEFF">
+            <tspan x="73.44" y="75">销售</tspan>
+        </text>
+        <filter x="-20.0%" y="-30.0%" width="140.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2   0 0 0 0 0.733333333   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-65.2%" y="-62.5%" width="230.4%" height="225.0%" filterUnits="objectBoundingBox" id="filter-23">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.279356061   0 0 0 0 0.667705792   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-24" points="80 16.1424782 60 32.2849564 20 32.2849564 0 16.1424782 20 0 60 0"></polygon>
+        <filter x="-3.8%" y="-9.3%" width="107.5%" height="118.6%" filterUnits="objectBoundingBox" id="filter-25">
+            <feGaussianBlur stdDeviation="3" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.548743207   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <text id="text-26" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" letter-spacing="0.56" fill="#D9EEFF">
+            <tspan x="86.1" y="179">研发工程师</tspan>
+        </text>
+        <filter x="-8.2%" y="-30.0%" width="116.4%" height="160.0%" filterUnits="objectBoundingBox" id="filter-27">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2   0 0 0 0 0.733333333   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-65.2%" y="-62.5%" width="230.4%" height="225.0%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.279356061   0 0 0 0 0.667705792   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-29" points="80 16.1424782 60 32.2849564 20 32.2849564 0 16.1424782 20 0 60 0"></polygon>
+        <filter x="-3.8%" y="-9.3%" width="107.5%" height="118.6%" filterUnits="objectBoundingBox" id="filter-30">
+            <feGaussianBlur stdDeviation="3" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.548743207   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <text id="text-31" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" letter-spacing="0.56" fill="#D9EEFF">
+            <tspan x="153.88" y="15">产品经理</tspan>
+        </text>
+        <filter x="-10.2%" y="-30.0%" width="120.3%" height="160.0%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2   0 0 0 0 0.733333333   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-65.2%" y="-62.5%" width="230.4%" height="225.0%" filterUnits="objectBoundingBox" id="filter-33">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.279356061   0 0 0 0 0.667705792   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-34" points="142 28.7837838 106.5 57.5675676 35.5 57.5675676 0 28.7837838 35.5 0 106.5 0"></polygon>
+        <filter x="-3.5%" y="-8.7%" width="107.0%" height="117.4%" filterUnits="objectBoundingBox" id="filter-35">
+            <feGaussianBlur stdDeviation="5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.548743207   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <text id="text-36" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" letter-spacing="0.64" fill="#D9EEFF">
+            <tspan x="39.22" y="17">需求总量</tspan>
+        </text>
+        <filter x="-9.0%" y="-27.3%" width="117.9%" height="154.5%" filterUnits="objectBoundingBox" id="filter-37">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2   0 0 0 0 0.733333333   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-22.7%" y="-31.2%" width="145.5%" height="162.5%" filterUnits="objectBoundingBox" id="filter-38">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.279356061   0 0 0 0 0.667705792   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="鲲鹏计划" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1447.000000, -172.000000)" id="人才需求">
+            <g transform="translate(1447.000000, 173.000000)">
+                <g id="Polygon-3" opacity="0.3" fill="black" fill-opacity="1">
+                    <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <g id="Polygon-3" opacity="0.2" fill="black" fill-opacity="1">
+                    <use filter="url(#filter-4)" xlink:href="#path-3"></use>
+                </g>
+                <g id="Polygon-3" opacity="0.5" fill="black" fill-opacity="1">
+                    <use filter="url(#filter-6)" xlink:href="#path-5"></use>
+                </g>
+                <g id="Polygon-3" opacity="0.5" fill="black" fill-opacity="1">
+                    <use filter="url(#filter-8)" xlink:href="#path-7"></use>
+                </g>
+                <g id="Java工程师" fill="#D9EEFF" fill-opacity="1">
+                    <use filter="url(#filter-10)" xlink:href="#text-9"></use>
+                    <use xlink:href="#text-9"></use>
+                </g>
+                <g id="Group-22" transform="translate(294.000000, 72.000000)">
+                    <g id="Polygon-3" fill="black" fill-opacity="1">
+                        <use filter="url(#filter-12)" xlink:href="#path-11"></use>
+                    </g>
+                    <polygon id="Polygon-3" fill="#06549B" points="77.5422535 18.0344828 61.5211268 30.9655172 29.4788732 30.9655172 13.4577465 18.0344828 29.4788732 5.10344828 61.5211268 5.10344828"></polygon>
+                    <polygon id="Polygon-3" fill="#02ADCC" points="76.6762467 16.2523978 61.0881233 27.4013473 29.9118767 27.4013473 14.3237533 16.2523978 29.9118767 5.10344828 61.0881233 5.10344828"></polygon>
+                </g>
+                <g id="Group-23" filter="url(#filter-13)" transform="translate(327.000000, 62.000000)" font-family="DINAlternate-Bold, DIN Alternate" font-size="24" font-weight="bold">
+                    <text id="25" letter-spacing="0.3428571" fill="#0A46F4">
+                        <tspan x="3" y="23">25</tspan>
+                    </text>
+                    <text id="25" letter-spacing="0.3428572" fill="#FFFFFF">
+                        <tspan x="0" y="23">25</tspan>
+                    </text>
+                </g>
+                <g id="Group-22" transform="translate(280.000000, 198.000000)">
+                    <g id="Polygon-3" fill="black" fill-opacity="1">
+                        <use filter="url(#filter-15)" xlink:href="#path-14"></use>
+                    </g>
+                    <polygon id="Polygon-3" fill="#06549B" points="68.1690141 15.8544903 54.084507 27.2224327 25.915493 27.2224327 11.8309859 15.8544903 25.915493 4.48654793 54.084507 4.48654793"></polygon>
+                    <polygon id="Polygon-3" fill="#02ADCC" points="67.4076894 14.2878222 53.7038447 24.0890966 26.2961553 24.0890966 12.5923106 14.2878222 26.2961553 4.48654793 53.7038447 4.48654793"></polygon>
+                </g>
+                <g id="UED" fill="#D9EEFF" fill-opacity="1">
+                    <use filter="url(#filter-17)" xlink:href="#text-16"></use>
+                    <use xlink:href="#text-16"></use>
+                </g>
+                <g id="Group-23" filter="url(#filter-18)" transform="translate(310.000000, 190.000000)" font-family="DINAlternate-Bold, DIN Alternate" font-size="20" font-weight="bold">
+                    <text id="24" letter-spacing="0.2857142" fill="#0A46F4">
+                        <tspan x="3" y="19">24</tspan>
+                    </text>
+                    <text id="24" letter-spacing="0.2857143" fill="#FFFFFF">
+                        <tspan x="0" y="19">24</tspan>
+                    </text>
+                </g>
+                <g id="Group-22" transform="translate(47.000000, 87.000000)">
+                    <g id="Polygon-3" fill="black" fill-opacity="1">
+                        <use filter="url(#filter-20)" xlink:href="#path-19"></use>
+                    </g>
+                    <polygon id="Polygon-3" fill="#06549B" points="68.1690141 15.8544903 54.084507 27.2224327 25.915493 27.2224327 11.8309859 15.8544903 25.915493 4.48654793 54.084507 4.48654793"></polygon>
+                    <polygon id="Polygon-3" fill="#02ADCC" points="67.4076894 14.2878222 53.7038447 24.0890966 26.2961553 24.0890966 12.5923106 14.2878222 26.2961553 4.48654793 53.7038447 4.48654793"></polygon>
+                </g>
+                <g id="销售" fill="#D9EEFF" fill-opacity="1">
+                    <use filter="url(#filter-22)" xlink:href="#text-21"></use>
+                    <use xlink:href="#text-21"></use>
+                </g>
+                <g id="Group-23" filter="url(#filter-23)" transform="translate(76.000000, 79.000000)" font-family="DINAlternate-Bold, DIN Alternate" font-size="20" font-weight="bold">
+                    <text id="24" letter-spacing="0.2857142" fill="#0A46F4">
+                        <tspan x="3" y="19">24</tspan>
+                    </text>
+                    <text id="24" letter-spacing="0.2857143" fill="#FFFFFF">
+                        <tspan x="0" y="19">24</tspan>
+                    </text>
+                </g>
+                <g id="Group-22" transform="translate(81.000000, 191.000000)">
+                    <g id="Polygon-3" fill="black" fill-opacity="1">
+                        <use filter="url(#filter-25)" xlink:href="#path-24"></use>
+                    </g>
+                    <polygon id="Polygon-3" fill="#06549B" points="68.1690141 15.8544903 54.084507 27.2224327 25.915493 27.2224327 11.8309859 15.8544903 25.915493 4.48654793 54.084507 4.48654793"></polygon>
+                    <polygon id="Polygon-3" fill="#02ADCC" points="67.4076894 14.2878222 53.7038447 24.0890966 26.2961553 24.0890966 12.5923106 14.2878222 26.2961553 4.48654793 53.7038447 4.48654793"></polygon>
+                </g>
+                <g id="研发工程师" fill="#D9EEFF" fill-opacity="1">
+                    <use filter="url(#filter-27)" xlink:href="#text-26"></use>
+                    <use xlink:href="#text-26"></use>
+                </g>
+                <g id="Group-23" filter="url(#filter-28)" transform="translate(110.000000, 183.000000)" font-family="DINAlternate-Bold, DIN Alternate" font-size="20" font-weight="bold">
+                    <text id="24" letter-spacing="0.2857142" fill="#0A46F4">
+                        <tspan x="3" y="19">24</tspan>
+                    </text>
+                    <text id="24" letter-spacing="0.2857143" fill="#FFFFFF">
+                        <tspan x="0" y="19">24</tspan>
+                    </text>
+                </g>
+                <g id="Group-22" transform="translate(143.000000, 27.000000)">
+                    <g id="Polygon-3" fill="black" fill-opacity="1">
+                        <use filter="url(#filter-30)" xlink:href="#path-29"></use>
+                    </g>
+                    <polygon id="Polygon-3" fill="#06549B" points="68.1690141 15.8544903 54.084507 27.2224327 25.915493 27.2224327 11.8309859 15.8544903 25.915493 4.48654793 54.084507 4.48654793"></polygon>
+                    <polygon id="Polygon-3" fill="#02ADCC" points="67.4076894 14.2878222 53.7038447 24.0890966 26.2961553 24.0890966 12.5923106 14.2878222 26.2961553 4.48654793 53.7038447 4.48654793"></polygon>
+                </g>
+                <g id="产品经理" fill="#D9EEFF" fill-opacity="1">
+                    <use filter="url(#filter-32)" xlink:href="#text-31"></use>
+                    <use xlink:href="#text-31"></use>
+                </g>
+                <g id="Group-23" filter="url(#filter-33)" transform="translate(172.000000, 19.000000)" font-family="DINAlternate-Bold, DIN Alternate" font-size="20" font-weight="bold">
+                    <text id="23" letter-spacing="0.2857142" fill="#0A46F4">
+                        <tspan x="3" y="19">23</tspan>
+                    </text>
+                    <text id="23" letter-spacing="0.2857143" fill="#FFFFFF">
+                        <tspan x="0" y="19">23</tspan>
+                    </text>
+                </g>
+                <g id="Group-24" transform="translate(155.000000, 53.000000)">
+                    <g id="Group-22" transform="translate(0.000000, 43.000000)">
+                        <g id="Polygon-3" fill="black" fill-opacity="1">
+                            <use filter="url(#filter-35)" xlink:href="#path-34"></use>
+                        </g>
+                        <polygon id="Polygon-3" fill="#06549B" points="121 28.2702703 96 48.5405405 46 48.5405405 21 28.2702703 46 8 96 8"></polygon>
+                        <polygon id="Polygon-3" fill="#02ADCC" points="119.648649 25.4767317 95.3243243 42.9534634 46.6756757 42.9534634 22.3513514 25.4767317 46.6756757 8 95.3243243 8"></polygon>
+                    </g>
+                    <g id="需求总量" fill="#D9EEFF" fill-opacity="1">
+                        <use filter="url(#filter-37)" xlink:href="#text-36"></use>
+                        <use xlink:href="#text-36"></use>
+                    </g>
+                    <g id="Group-23" filter="url(#filter-38)" transform="translate(38.000000, 24.000000)" font-family="DINAlternate-Bold, DIN Alternate" font-size="42" font-weight="bold">
+                        <text id="728" letter-spacing="0.6" fill="#0A46F4">
+                            <tspan x="3" y="39">728</tspan>
+                        </text>
+                        <text id="728" letter-spacing="0.6000001" fill="#FFFFFF">
+                            <tspan x="0" y="39">728</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

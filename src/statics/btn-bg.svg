@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="262px" height="43px" viewBox="0 0 262 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>选中态</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.0%" y="-27.4%" width="106.0%" height="154.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2   0 0 0 0 0.733333333   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#ABF2FF" offset="0%"></stop>
+            <stop stop-color="#ABF2FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="鲲鹏计划" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-98.000000, -788.000000)" id="选中态" stroke="#ABF2FF">
+            <g filter="url(#filter-1)" transform="translate(103.000000, 794.000000)">
+                <path d="M4.67857713,1.25 L0.261613922,15.5875588 L4.67848397,29.9002703 L247.225702,29.9002703 L251.642386,15.6370329 L247.225238,1.25 L4.67857713,1.25 Z" id="Combined-Shape" stroke-width="0.5" fill-opacity="0.05" fill="url(#linearGradient-2)"></path>
+                <polyline id="Path-16" stroke-width="2" stroke-linecap="round" points="11.2 0.810810811 4.8 0.810810811 3.2 6.48648649"></polyline>
+                <polyline id="Path-16" stroke-width="2" stroke-linecap="round" transform="translate(7.200000, 28.162162) scale(1, -1) translate(-7.200000, -28.162162) " points="11.2 25.3243243 4.8 25.3243243 3.2 31"></polyline>
+                <polyline id="Path-16" stroke-width="2" stroke-linecap="round" transform="translate(244.800000, 3.648649) scale(-1, 1) translate(-244.800000, -3.648649) " points="248.8 0.810810811 242.4 0.810810811 240.8 6.48648649"></polyline>
+                <polyline id="Path-16" stroke-width="2" stroke-linecap="round" transform="translate(244.800000, 28.162162) scale(-1, -1) translate(-244.800000, -28.162162) " points="248.8 25.3243243 242.4 25.3243243 240.8 31"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

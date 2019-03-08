@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="467px" height="383px" viewBox="0 0 467 383" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>总体-背景-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="鲲鹏计划" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-727.000000, -582.000000)" fill-rule="nonzero" id="Group-28">
+            <g transform="translate(729.000000, 584.000000)">
+                <g id="总体-背景-2">
+                    <rect id="Rectangle-16" fill="#0286FF" opacity="0.1" x="0" y="0" width="463" height="379"></rect>
+                    <polyline id="Path-9" stroke="#0CC8FC" stroke-width="3" stroke-linecap="round" points="23 0 0 0 0 22"></polyline>
+                    <polyline id="Path-9" stroke="#0CC8FC" stroke-width="3" stroke-linecap="round" transform="translate(11.500000, 368.000000) scale(1, -1) translate(-11.500000, -368.000000) " points="23 357 0 357 0 379"></polyline>
+                    <polyline id="Path-9" stroke="#0CC8FC" stroke-width="3" stroke-linecap="round" transform="translate(451.500000, 11.000000) scale(-1, 1) translate(-451.500000, -11.000000) " points="463 0 440 0 440 22"></polyline>
+                    <polyline id="Path-9" stroke="#0CC8FC" stroke-width="3" stroke-linecap="round" transform="translate(451.500000, 368.000000) scale(-1, -1) translate(-451.500000, -368.000000) " points="463 357 440 357 440 379"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
